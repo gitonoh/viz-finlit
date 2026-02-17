@@ -1,0 +1,33 @@
+euro area household portfolio - financial literacy in 2023
+
+investment ratio on the y axis, literacy on the x axis
+
+positively correlated?
+
+account for "scale" -- total financial assets(or disposable income) as bubble
+
+
+ [1] "geo"
+ [2] "F"
+ [3] "F2"
+ [4] "F5"
+ [5] "F6"
+ [6] "F5_F2_ratio"
+ [7] "F6_F2_ratio"
+ [8] "F5F6_F2_ratio"
+ [9] "Financial.Literacy.Score..out.of.100."
+[10] "Percentage.of.adults.reaching.the.minimum.target.score.of.financial.literacy"
+[11] "Financial.Knowledge.Scores..out.of.100."
+[12] "Percentage.of.adults.reaching.the.minimum.target.score.on.financial.knowledge"
+[13] "Financial.Behaviour.Scores..out.of.100."
+[14] "Percentage.of.adults.reaching.the.minimum.target.score.on.financial.behaviour"
+[15] "Financial.Attitudes.Scores..out.of.100."
+[16] "Adults.who.hold.saving..investment..or.retirement..SIR..products."
+[17] "Financial.Well.Being.Scores..out.of.100."
+[18] "Financial.resilience.score..out.of.100."
+[19] "Subjective.financial.well.being..100."
+[20] "Adjusted.disposable.income..gross..per.capita"
+[21] "Disposable.income..gross..per.capita"
+
+To Do
+- note
